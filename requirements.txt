@@ -1,0 +1,11 @@
+langchain
+gradio
+faiss-cpu
+sentence-transformers
+pinecone-client
+python-dotenv
+pypdf
+tqdm
+transformers
+accelerate
+ollama

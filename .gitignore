@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+
+# Virtual environments
+venv/
+env/
+
+# FAISS index and data
+faiss_index/
+data/
+
+# Gradio cache
+.gradio/
+.cache/
+
+# Logs
+*.log
+jarvis_logs.txt
+
+# OS junk
+.DS_Store
+Thumbs.db
